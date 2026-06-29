@@ -7,7 +7,7 @@ Port
 Я брал логику работы кода из модов EverlastingSkins и SkinRestorer
 
 Этот порт строго требует:
-- Cleanroom - Это такое ядро forge
+- Cleanroom - Это такое ядро forge 1.12.2
 - Java 25 - советую graalvm
 
 Весит очень мало всего 15,5 кб
